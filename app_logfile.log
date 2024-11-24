@@ -1,0 +1,54 @@
+2024-11-24 21:43:21,276 - DEBUG -Starting new HTTPS connection (1): www.amazon.in:443
+2024-11-24 21:43:21,544 - DEBUG -https://www.amazon.in:443 "GET /Crucial-Basics-2666Mhz-Laptops-Notebooks/dp/B08BC2V71W/ref=pd_ci_mcx_mh_mcx_views_0_title?pd_rd_w=HHohO&content-id=amzn1.sym.fa0aca50-60f7-47ca-a90e-c40e2f4b46a9%3Aamzn1.symc.ca948091-a64d-450e-86d7-c161ca33337b&pf_rd_p=fa0aca50-60f7-47ca-a90e-c40e2f4b46a9&pf_rd_r=4TA139T3HNXCZZ6QWNVE&pd_rd_wg=pBxrZ&pd_rd_r=4ce1fb29-0365-477e-8f3a-3642e8ab13d8&pd_rd_i=B08BC2V71W HTTP/11" 200 None
+2024-11-24 21:43:21,550 - INFO -MRP not found. Please check the HTML structure of the page.
+2024-11-24 21:43:21,550 - INFO -You have problem with this url: https://www.amazon.in/Crucial-Basics-2666Mhz-Laptops-Notebooks/dp/B08BC2V71W/ref=pd_ci_mcx_mh_mcx_views_0_title?pd_rd_w=HHohO&content-id=amzn1.sym.fa0aca50-60f7-47ca-a90e-c40e2f4b46a9%3Aamzn1.symc.ca948091-a64d-450e-86d7-c161ca33337b&pf_rd_p=fa0aca50-60f7-47ca-a90e-c40e2f4b46a9&pf_rd_r=4TA139T3HNXCZZ6QWNVE&pd_rd_wg=pBxrZ&pd_rd_r=4ce1fb29-0365-477e-8f3a-3642e8ab13d8&pd_rd_i=B08BC2V71W
+2024-11-24 21:43:22,190 - INFO -Application started. NOW
+2024-11-24 21:43:22,211 - INFO -=>$ Getting Price of Product Loading...
+2024-11-24 21:43:22,213 - DEBUG -Starting new HTTPS connection (1): www.amazon.in:443
+2024-11-24 21:43:22,420 - DEBUG -https://www.amazon.in:443 "GET /Crucial-Basics-2666Mhz-Laptops-Notebooks/dp/B08BC2V71W/ref=pd_ci_mcx_mh_mcx_views_0_image?pd_rd_w=7dyug&content-id=amzn1.sym.fa0aca50-60f7-47ca-a90e-c40e2f4b46a9%3Aamzn1.symc.ca948091-a64d-450e-86d7-c161ca33337b&pf_rd_p=fa0aca50-60f7-47ca-a90e-c40e2f4b46a9&pf_rd_r=CQNRXQB1SC6Y4TT9VA5P&pd_rd_wg=sQ1SN&pd_rd_r=6fbe69ea-a382-4eae-aa7b-51f30bc94469&pd_rd_i=B08BC2V71W,1330.0,1330.0 HTTP/11" 200 None
+2024-11-24 21:43:22,426 - INFO -MRP not found. Please check the HTML structure of the page.
+2024-11-24 21:43:22,426 - INFO -You have problem with this url: https://www.amazon.in/Crucial-Basics-2666Mhz-Laptops-Notebooks/dp/B08BC2V71W/ref=pd_ci_mcx_mh_mcx_views_0_image?pd_rd_w=7dyug&content-id=amzn1.sym.fa0aca50-60f7-47ca-a90e-c40e2f4b46a9%3Aamzn1.symc.ca948091-a64d-450e-86d7-c161ca33337b&pf_rd_p=fa0aca50-60f7-47ca-a90e-c40e2f4b46a9&pf_rd_r=CQNRXQB1SC6Y4TT9VA5P&pd_rd_wg=sQ1SN&pd_rd_r=6fbe69ea-a382-4eae-aa7b-51f30bc94469&pd_rd_i=B08BC2V71W,1330.0,1330.0
+2024-11-24 21:43:22,426 - INFO -=>$ Getting Price of Product Loading...
+2024-11-24 21:43:22,454 - INFO -Cell is empty and i am loading this value : 0.0
+2024-11-24 21:43:22,518 - INFO -Value 0 written to Excel successfully!
+2024-11-24 21:43:22,518 - INFO -=>$ Getting Price of Product Loading...
+2024-11-24 21:43:22,520 - DEBUG -Starting new HTTPS connection (1): www.amazon.in:443
+2024-11-24 21:43:22,724 - DEBUG -https://www.amazon.in:443 "GET /Protoner-PRHWRA-Cotton-Boxing-Punching/dp/B01FP2AB4W/?_encoding=UTF8&pd_rd_w=ViIlL&content-id=amzn1.sym.509965a2-791b-4055-b876-943397d37ed3%3Aamzn1.symc.fc11ad14-99c1-406b-aa77-051d0ba1aade&pf_rd_p=509965a2-791b-4055-b876-943397d37ed3&pf_rd_r=CJPHF5F1E22AJ67SZM02&pd_rd_wg=2xavv&pd_rd_r=b2b007e3-8eed-4ae2-883d-0dbb4a509d61&ref_=pd_hp_d_atf_ci_mcx_mr_ca_hp_atf_d&th=1,135.0,135.0 HTTP/11" 200 None
+2024-11-24 21:43:22,740 - INFO -MRP not found. Please check the HTML structure of the page.
+2024-11-24 21:43:22,740 - INFO -You have problem with this url: https://www.amazon.in/Protoner-PRHWRA-Cotton-Boxing-Punching/dp/B01FP2AB4W/?_encoding=UTF8&pd_rd_w=ViIlL&content-id=amzn1.sym.509965a2-791b-4055-b876-943397d37ed3%3Aamzn1.symc.fc11ad14-99c1-406b-aa77-051d0ba1aade&pf_rd_p=509965a2-791b-4055-b876-943397d37ed3&pf_rd_r=CJPHF5F1E22AJ67SZM02&pd_rd_wg=2xavv&pd_rd_r=b2b007e3-8eed-4ae2-883d-0dbb4a509d61&ref_=pd_hp_d_atf_ci_mcx_mr_ca_hp_atf_d&th=1,135.0,135.0
+2024-11-24 21:43:22,741 - INFO -=>$ Getting Price of Product Loading...
+2024-11-24 21:43:22,791 - INFO -Cell is empty and i am loading this value : 0.0
+2024-11-24 21:43:22,823 - INFO -Value 0 written to Excel successfully!
+2024-11-24 21:43:22,824 - INFO -=>$ Getting Price of Product Loading...
+2024-11-24 21:43:22,825 - DEBUG -Starting new HTTPS connection (1): www.amazon.in:443
+2024-11-24 21:43:23,506 - DEBUG -https://www.amazon.in:443 "GET /CSM-Eggs-Tray-Storage-Eggs/dp/B07S8GQW1N/?_encoding=UTF8&pd_rd_w=l5myT&content-id=amzn1.sym.b5a625fa-e3eb-4301-a9e2-f9c8b3e7badf%3Aamzn1.symc.36bd837a-d66d-47d1-8457-ffe9a9f3ddab&pf_rd_p=b5a625fa-e3eb-4301-a9e2-f9c8b3e7badf&pf_rd_r=CJPHF5F1E22AJ67SZM02&pd_rd_wg=P43sm&pd_rd_r=cbf912e2-c112-4d08-9d55-ea9bbcdd4151&ref_=pd_hp_d_btf_ci_mcx_mr_hp_atf_m&th=1 HTTP/11" 200 None
+2024-11-24 21:43:23,521 - INFO -MRP not found. Please check the HTML structure of the page.
+2024-11-24 21:43:23,522 - INFO -You have problem with this url: https://www.amazon.in/CSM-Eggs-Tray-Storage-Eggs/dp/B07S8GQW1N/?_encoding=UTF8&pd_rd_w=l5myT&content-id=amzn1.sym.b5a625fa-e3eb-4301-a9e2-f9c8b3e7badf%3Aamzn1.symc.36bd837a-d66d-47d1-8457-ffe9a9f3ddab&pf_rd_p=b5a625fa-e3eb-4301-a9e2-f9c8b3e7badf&pf_rd_r=CJPHF5F1E22AJ67SZM02&pd_rd_wg=P43sm&pd_rd_r=cbf912e2-c112-4d08-9d55-ea9bbcdd4151&ref_=pd_hp_d_btf_ci_mcx_mr_hp_atf_m&th=1
+2024-11-24 21:43:23,523 - INFO -=>$ Getting Price of Product Loading...
+2024-11-24 21:43:23,569 - INFO -Cell is empty and i am loading this value : 0.0
+2024-11-24 21:43:23,598 - INFO -Value 0 written to Excel successfully!
+2024-11-24 21:43:23,598 - INFO -=>$ Getting Price of Product Loading...
+2024-11-24 21:43:23,599 - DEBUG -Starting new HTTPS connection (1): www.amazon.in:443
+2024-11-24 21:43:23,916 - DEBUG -https://www.amazon.in:443 "GET /gp/product/B0BDV85YN7/ref=ox_sc_saved_image_3?smid=&psc=1 HTTP/11" 200 None
+2024-11-24 21:43:23,932 - INFO -MRP not found. Please check the HTML structure of the page.
+2024-11-24 21:43:23,933 - INFO -You have problem with this url: https://www.amazon.in/gp/product/B0BDV85YN7/ref=ox_sc_saved_image_3?smid=&psc=1
+2024-11-24 21:43:23,934 - INFO -=>$ Getting Price of Product Loading...
+2024-11-24 21:43:23,977 - INFO -Cell is empty and i am loading this value : 0.0
+2024-11-24 21:43:24,010 - INFO -Value 0 written to Excel successfully!
+2024-11-24 21:43:24,010 - INFO -=>$ Getting Price of Product Loading...
+2024-11-24 21:43:24,011 - DEBUG -Starting new HTTPS connection (1): www.amazon.in:443
+2024-11-24 21:43:24,196 - DEBUG -https://www.amazon.in:443 "GET /dp/B08R3CS8Y1/?coliid=I2UHP0KKT73E4D&colid=1ICFPUUIY9MU9&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it HTTP/11" 200 None
+2024-11-24 21:43:24,214 - INFO -MRP not found. Please check the HTML structure of the page.
+2024-11-24 21:43:24,214 - INFO -You have problem with this url: https://www.amazon.in/dp/B08R3CS8Y1/?coliid=I2UHP0KKT73E4D&colid=1ICFPUUIY9MU9&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it
+2024-11-24 21:43:24,216 - INFO -=>$ Getting Price of Product Loading...
+2024-11-24 21:43:24,260 - INFO -Cell is empty and i am loading this value : 0.0
+2024-11-24 21:43:24,287 - INFO -Value 0 written to Excel successfully!
+2024-11-24 21:43:24,287 - INFO -=>$ Getting Price of Product Loading...
+2024-11-24 21:43:24,289 - DEBUG -Starting new HTTPS connection (1): www.amazon.in:443
+2024-11-24 21:43:24,491 - DEBUG -https://www.amazon.in:443 "GET /dp/B07QS91932/?coliid=I2PZAYTNRD5L8V&colid=1ICFPUUIY9MU9&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it HTTP/11" 200 None
+2024-11-24 21:43:24,495 - INFO -MRP not found. Please check the HTML structure of the page.
+2024-11-24 21:43:24,496 - INFO -You have problem with this url: https://www.amazon.in/dp/B07QS91932/?coliid=I2PZAYTNRD5L8V&colid=1ICFPUUIY9MU9&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it
+2024-11-24 21:43:24,497 - INFO -=>$ Getting Price of Product Loading...
+2024-11-24 21:43:24,524 - INFO -Cell is empty and i am loading this value : 0.0
+2024-11-24 21:43:24,551 - INFO -Value 0 written to Excel successfully!
+2024-11-24 21:43:24,551 - INFO -=>$Successfully Executed
